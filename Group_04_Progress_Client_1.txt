@@ -1,0 +1,43 @@
+01:00:10 - Connecting to OPC UA server "opc.tcp://localhost:7001"
+01:00:12 - Loading operation list
+There are 4 Requests in the Operation List
+-----------------------------------------------------------------
+Starting Operation B
+01:00:13 - Transferring a New Workpiece with ID: WID_TRD355
+01:00:18 - Connecting to KUKA robot
+01:00:18 - Starting Kuka Robot Operation ---> Pick & Place Started
+01:00:24 - KUKA Operation Pick & Place Completed
+01:00:25 - Opening CNC Lathe Door
+01:00:28 - Closing CNC Lathe Door
+01:00:29 - Starting Lathe Operation ---> Turning & Threading
+01:00:44 - Operation B Completed
+-----------------------------------------------------------------
+Starting Operation B
+01:00:45 - Transferring a New Workpiece with ID: WID_TRD790
+01:00:51 - Connecting to KUKA robot
+01:00:51 - Starting Kuka Robot Operation ---> Pick & Place Started
+01:00:57 - KUKA Operation Pick & Place Completed
+01:00:57 - Opening CNC Lathe Door
+01:01:00 - Closing CNC Lathe Door
+01:01:01 - Starting Lathe Operation ---> Turning & Threading
+01:01:17 - Operation B Completed
+-----------------------------------------------------------------
+Starting Operation A
+01:01:18 - Transferring a New Workpiece with ID: WID_DRL626
+01:01:23 - Connecting to KUKA robot
+01:01:23 - Starting Kuka Robot Operation ---> Pick & Place Started
+01:01:29 - KUKA Operation Pick & Place Completed
+01:01:30 - Opening CNC Lathe Door
+01:01:31 - Closing CNC Lathe Door
+01:01:32 - Starting Lathe Operation ---> Turning & Drilling
+01:01:46 - Operation A Completed
+-----------------------------------------------------------------
+Starting Operation A
+01:01:47 - Transferring a New Workpiece with ID: WID_DRL565
+01:01:52 - Connecting to KUKA robot
+01:01:52 - Starting Kuka Robot Operation ---> Pick & Place Started
+01:01:58 - KUKA Operation Pick & Place Completed
+01:01:59 - Opening CNC Lathe Door
+01:02:00 - Closing CNC Lathe Door
+01:02:01 - Starting Lathe Operation ---> Turning & Drilling
+01:02:15 - Operation A Completed

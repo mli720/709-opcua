@@ -71,6 +71,18 @@ objects_node = client.get_objects_node()
 # Get the children node of the objects Method
 method = objects_node.get_children()
 
+# print(method)
+# print("methods: ")
+# ######## Checking method nodes #########
+# i = 1
+# while  i<len(method):
+#     sensor_name_node = method[i]
+#     print("Sensor name node Id: %s" % sensor_name_node)
+#     print("Sensor name node browse name: %s" % sensor_name_node.get_browse_name())
+#     print()
+#     i += 1
+# #################################
+
 ##################################################################################################
 # Assign nodes
 Equipment_ID1 = client.get_node("ns=2;i=2") # Example

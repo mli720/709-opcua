@@ -61,16 +61,16 @@ except:
 # Get the root node of the adress space
 objects_node = client.get_objects_node()
 
-######## Checking nodes #########
-i = 0
-while  i<14:
-    sensor_name_node = objects_node.get_children()[1].get_children()[i]
-    print("Sensor name node Id: %s" % sensor_name_node)
-    print("Sensor name node browse name: %s" % sensor_name_node.get_browse_name())
-    print("Sensor name default value: %s" % sensor_name_node.get_value())
-    print()
-    i += 1
-#################################
+# ######## Checking nodes #########
+# i = 0
+# while  i<14:
+#     sensor_name_node = objects_node.get_children()[1].get_children()[i]
+#     print("Sensor name node Id: %s" % sensor_name_node)
+#     print("Sensor name node browse name: %s" % sensor_name_node.get_browse_name())
+#     print("Sensor name default value: %s" % sensor_name_node.get_value())
+#     print()
+#     i += 1
+# #################################
 
 # Get the children node of the objects Method
 method = objects_node.get_children()

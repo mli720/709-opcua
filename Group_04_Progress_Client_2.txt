@@ -1,0 +1,24 @@
+01:05:49 - Connecting to OPC UA server "opc.tcp://localhost:7001"
+01:05:51 - Loading operation list
+There are 3 Requests in the Operation List
+-----------------------------------------------------------------
+Starting Operation C
+01:05:53 - Transferring a New Workpiece with ID: WID_MSR3
+01:05:58 - Connecting to KUKA robot
+01:05:58 - Starting Kuka Robot Operation ---> Measurement Started
+01:06:04 - KUKA Operation Measurement Completed
+01:06:05 - Operation C Completed
+-----------------------------------------------------------------
+Starting Operation C
+01:06:06 - Transferring a New Workpiece with ID: WID_MSR798
+01:06:11 - Connecting to KUKA robot
+01:06:11 - Starting Kuka Robot Operation ---> Measurement Started
+01:06:17 - KUKA Operation Measurement Completed
+01:06:18 - Operation C Completed
+-----------------------------------------------------------------
+Starting Operation C
+01:06:19 - Transferring a New Workpiece with ID: WID_MSR519
+01:06:24 - Connecting to KUKA robot
+01:06:25 - Starting Kuka Robot Operation ---> Measurement Started
+01:06:31 - KUKA Operation Measurement Completed
+01:06:31 - Operation C Completed
